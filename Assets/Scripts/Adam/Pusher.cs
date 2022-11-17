@@ -7,14 +7,16 @@ using UnityEngine;
 public class Pusher : MonoBehaviour
 {
     private Vector3 move;
+    private bool locked;
 
     private void OnTriggerStay(Collider other)
     {
         IMovable imovable = other.gameObject.GetComponent<IMovable>();
         if (imovable != null)
         {
+            
             move = ClosestCardinalDirection(other.gameObject.transform.position - transform.position);
-            imovable.Move(move);
+            imovable.Move(move, locked);
         }
     }
 

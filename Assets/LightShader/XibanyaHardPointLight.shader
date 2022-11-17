@@ -59,6 +59,7 @@ Shader "Xibanya/HardPointLight"
                  o.Normal = UnpackScaleNormal(tex2D(_BumpMap, IN.uv_MainTex), _BumpScale);
              }
              ENDCG
+             
 
          }
          FallBack "Diffuse"

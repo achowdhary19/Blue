@@ -18,7 +18,7 @@ namespace Scripts
                 if (Physics.Raycast(transform.position, (other.transform.position - transform.position), out hit, layerMask))
                 {
                     //Debug.Log("Ray hit - non player");
-                    if (hit.collider.isTrigger && hit.collider.CompareTag("Player"))
+                    if (hit.collider.CompareTag("Player"))
                     {
                         Debug.DrawRay(transform.position, (other.transform.position - transform.position), Color.blue);
                         //Debug.Log("In direct light");

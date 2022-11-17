@@ -4,6 +4,6 @@ namespace Scripts
 {
     public interface IMovable
     {
-        void Move(Vector3 move);
+        void Move(Vector3 move, bool locked);
     }
 }
