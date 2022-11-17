@@ -5,279 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd5c7ee6-11d5-4379-afca-5d1458ee33fb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BLUE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BLUE/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BLUE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BLUE/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LightShader/XibanyaHardPointLight.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LightShader/XibanyaHardPointLight.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/New Lighting Settings.lighting" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Lighting Settings.lighting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Box moving.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Box moving.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IMovable.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/IMovable.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovableBox.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovableBox.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerLifeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerLifeController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProceduralTextures.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ProceduralTextures.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pusher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pusher.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/COPYING.LESSER.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/COPYING.LESSER.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/README.TXT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/README.TXT.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Ext.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Ext/Dotnet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Ext/Dotnet/BitmapAdaptater.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Ext/Dotnet/BitmapAdaptater.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/FrmMain.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/FrmMain.Designer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/FrmMain.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/FrmMain.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/FrmMain.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/FrmMain.resx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Program.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Resources.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Resources.Designer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Resources.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Resources.resx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Settings.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Settings.Designer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Settings.settings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/Properties/Settings.settings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-demo/libnoise-demo.csproj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-dotnet.sln.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise-dotnet.suo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise.ico.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Libnoise.csproj.user.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties/Settings.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties/Settings.Designer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties/Settings.settings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/Properties/Settings.settings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/libnoise.csproj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/IBuilderFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/IBuilderFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMap.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMap.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilderCylinder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilderCylinder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilderPlane.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilderPlane.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilderSphere.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/NoiseMapBuilderSphere.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/ShapeFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Builder/ShapeFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Add.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Add.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Max.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Max.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Min.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Min.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Multiply.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Multiply.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Power.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Power.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Substract.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Combiner/Substract.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/CombinerModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/CombinerModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/Billow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/Billow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/HeterogeneousMultiFractal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/HeterogeneousMultiFractal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/HybridMultiFractal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/HybridMultiFractal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/MultiFractal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/MultiFractal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/Pipe.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/Pipe.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/RidgedMultiFractal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/RidgedMultiFractal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/SinFractal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/SinFractal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/SumFractal.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/SumFractal.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/Voronoi.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Filter/Voronoi.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/FilterModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/FilterModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IMap2D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IMap2D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule1D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule1D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule2D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule2D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule3D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule3D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule4D.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/IModule4D.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Libnoise.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Libnoise.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/AbstractModel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/AbstractModel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Cylinder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Cylinder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Line.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Line.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Plane.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Plane.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Sphere.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Model/Sphere.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Abs.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Abs.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Cache.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Cache.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Clamp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Clamp.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/ControlPoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/ControlPoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Curve.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Curve.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Exponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Exponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Invert.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Invert.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/ScaleBias.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/ScaleBias.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Terrace.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Modifier/Terrace.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/ModifierModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/ModifierModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Module.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Module.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/NoiseFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/NoiseFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/NoisePrimitive.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/NoisePrimitive.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/NoiseQuality.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/NoiseQuality.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/BevinsGradient.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/BevinsGradient.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/BevinsValue.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/BevinsValue.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Checkerboard.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Checkerboard.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Constant.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Constant.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Cylinders.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Cylinders.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/ImprovedPerlin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/ImprovedPerlin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/SimplexPerlin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/SimplexPerlin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Spheres.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Primitive/Spheres.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/PrimitiveModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/PrimitiveModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/AbstractHeightmapRenderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/AbstractHeightmapRenderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/AbstractImageRenderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/AbstractImageRenderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/AbstractRenderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/AbstractRenderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Color.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Color.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/GradientColor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/GradientColor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/GradientPoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/GradientPoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap16.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap16.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap16Renderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap16Renderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap32.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap32.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap32Renderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap32Renderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap8.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap8.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap8Renderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Heightmap8Renderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/IColor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/IColor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Image.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/Image.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/ImageRenderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/ImageRenderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/NormalMapRenderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Renderer/NormalMapRenderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Selector.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Selector/Blend.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Selector/Blend.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Selector/Select.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Selector/Select.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/SelectorModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/SelectorModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/Displace.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/Displace.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/RotatePoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/RotatePoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/ScalePoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/ScalePoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/TranslatePoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/TranslatePoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/Turbulence.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Transformer/Turbulence.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/TransformerModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/TransformerModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Utils.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Utils/DataMap.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Utils/DataMap.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/AbstractWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/AbstractWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/BMPWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/BMPWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/Heightmap16RawWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/Heightmap16RawWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/Heightmap32RawWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/Heightmap32RawWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/Heightmap8RawWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/ libnoise-dotnet/libnoise/src/Writer/Heightmap8RawWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/NewBehaviourScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/NewBehaviourScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/libnoise-dotnet-master/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/LightingFalloff.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -288,19 +22,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Standalone Player.UnitTests (batch mode)">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe" />
@@ -341,7 +75,7 @@
       <updated>1668563229371</updated>
       <workItem from="1668563240702" duration="1947000" />
       <workItem from="1668622568367" duration="449000" />
-      <workItem from="1668706935967" duration="4002000" />
+      <workItem from="1668706935967" duration="4161000" />
     </task>
     <servers />
   </component>
