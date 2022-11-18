@@ -14,7 +14,6 @@ public class Pusher : MonoBehaviour
         IMovable imovable = other.gameObject.GetComponent<IMovable>();
         if (imovable != null)
         {
-            
             move = ClosestCardinalDirection(other.gameObject.transform.position - transform.position);
             imovable.Move(move, locked);
         }
