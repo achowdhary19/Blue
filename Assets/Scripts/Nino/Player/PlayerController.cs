@@ -31,14 +31,9 @@ public class PlayerController : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        if (!groundChecker.onGround)
-        {
-            VelocityY -= gravityForce;
-            cc.Move(new Vector3(0, VelocityY, 0));
-        }
-        else
-        {
-            VelocityY = 0;
-        }   
+        if (!groundChecker.onGround) VelocityY -= gravityForce * Time.fixedDeltaTime;
+        else VelocityY = -gravityForce;
+
+        cc.Move(new Vector3(0, VelocityY, 0));
     }
 }
