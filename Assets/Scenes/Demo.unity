@@ -2322,10 +2322,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   avoidPlayerCollision:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 127
   everythingMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 2147483647
   lifeController: {fileID: 1016540386}
 --- !u!95 &323357483
 Animator:
@@ -9350,7 +9350,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8761864347434953995, guid: ddc0d2d0f9885174d9b88cb9568b0a31, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 19.11
+      value: 22.9
       objectReference: {fileID: 0}
     - target: {fileID: 8761864347434953995, guid: ddc0d2d0f9885174d9b88cb9568b0a31, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9358,7 +9358,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8761864347434953995, guid: ddc0d2d0f9885174d9b88cb9568b0a31, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.85
+      value: 5.9
       objectReference: {fileID: 0}
     - target: {fileID: 8761864347434953995, guid: ddc0d2d0f9885174d9b88cb9568b0a31, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10351,7 +10351,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh35700
+  m_Name: pb_Mesh26438
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11227,7 +11227,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-19144
+  m_Name: pb_Mesh-2590
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
