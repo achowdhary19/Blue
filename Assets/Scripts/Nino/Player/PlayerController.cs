@@ -11,11 +11,15 @@ public class PlayerController : MonoBehaviour
     float VelocityY;
     [field: SerializeField] float moveSpeed;
     [field: SerializeField] float gravityForce;
+    public bool isMoving;
+
+    [field: SerializeField] float rotationLerpSpeed;
     
     void Start()
     {
         TryGetComponent<CharacterController>(out cc);
         VelocityY = 0;
+        isMoving = false;
     }
     private void OnEnable()
     {
@@ -28,6 +32,7 @@ public class PlayerController : MonoBehaviour
     public void MovePlayer()
     {
         cc.Move(inputHandeler.moveDirection * moveSpeed * Time.fixedDeltaTime);
+        lookForward();
     }
     private void FixedUpdate()
     {
@@ -35,5 +40,12 @@ public class PlayerController : MonoBehaviour
         else VelocityY = -gravityForce;
 
         cc.Move(new Vector3(0, VelocityY, 0));
+
+        if (inputHandeler.moveDirection != Vector3.zero) isMoving = true;
+        else isMoving = false;
+    }
+    private void lookForward()
+    {
+        transform.rotation = Quaternion.Lerp(transform.rotation, Quaternion.LookRotation(inputHandeler.moveDirection), rotationLerpSpeed * Time.fixedDeltaTime);
     }
 }
